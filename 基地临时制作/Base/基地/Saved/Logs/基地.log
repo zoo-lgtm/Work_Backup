@@ -1163,3 +1163,340 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.16-02.43.53:354][975]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main38E251D24039C70E2326209FF37AF81C.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
 [2020.11.16-02.43.53:374][975]AssetCheck: New page: 资产保存：Base_Main
 [2020.11.16-02.43.53:374][975]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-02.45.15:701][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (base_separated_16)
+[2020.11.16-02.45.34:450][117]Cmd: SELECT NONE
+[2020.11.16-02.53.53:681][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.11.16-02.53.53:684][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.16-02.53.53:702][432]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main_Auto1C39733D0453AB3D496C2059061CC5AC0.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto1.umap'
+[2020.11.16-02.53.53:736][432]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Map/Base_Main' took 0.063
+[2020.11.16-02.53.53:736][432]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.063
+[2020.11.16-05.50.48:434][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-05.50.48:694][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.16-05.50.48:987][380]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main06E9CD874747684252FAFCBE88AFBE8D.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-05.50.49:767][380]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-05.50.49:767][380]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-05.52.28:687][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (base_pCube13)
+[2020.11.16-05.52.31:587][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (base_pCube13)
+[2020.11.16-05.52.32:170][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (base_separated_012)
+[2020.11.16-05.52.38:663][764]Cmd: SELECT NONE
+[2020.11.16-05.52.55:384][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.11.16-06.12.22:763][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-06.12.22:899][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.11.16-06.12.23:023][432]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main1F0ACAA64E473532E2A9BEB391D50E6E.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-06.12.23:070][432]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-06.12.23:070][432]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-06.12.24:467][496]Cmd: SELECT NONE
+[2020.11.16-06.12.33:245][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-06.12.33:257][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.11.16-06.12.33:296][ 18]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main2A6349EF46DA21F21FBC0A8707D54941.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-06.12.33:347][ 18]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-06.12.33:347][ 18]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-06.31.37:858][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-06.31.37:876][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.16-06.31.37:965][582]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_MainB858BAB547C3CEA16200C0AA1EC59192.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-06.31.38:014][582]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-06.31.38:014][582]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-06.31.40:345][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-06.31.40:358][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.16-06.31.40:392][711]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main405862EB49FFC298C26073901B88A102.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-06.31.40:433][711]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-06.31.40:433][711]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-06.32.21:417][867]LogDirectoryWatcher: A directory notification failed for 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.11.16-06.32.21:417][867]LogDirectoryWatcher: A directory notification failed for 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Developers/lianghongwei/Collections/' because it could not be accessed. Aborting watch request...
+[2020.11.16-06.32.21:418][867]LogDirectoryWatcher: A directory notification failed for 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Mountain_Tile_CLR（AutoDXT、1024X1024）
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Indoor_MainHall_Blurry_CubeMap（RGBA16F、32X32）
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Generator_Masks（AutoDXT、1024X1024）
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Masks_01（AutoDXT、1024X1024）
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Generator_NRM（BC5、2048X2048）
+[2020.11.16-06.49.39:940][843]LogTexture: Display: 正在编译纹理：T_Generator_SPEC（AutoDXT、2048X2048）
+[2020.11.16-06.49.39:941][843]LogTexture: Display: 正在编译纹理：T_Generator_CLR（AutoDXT、2048X2048）
+[2020.11.16-06.49.39:941][843]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-06.49.40:094][843]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.11.16-06.49.40:464][843]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-06.49.40:464][843]LogStaticMesh: 正在构建静态网格体SM_Generator_Attachment_01……
+[2020.11.16-06.49.40:615][843]LogStaticMesh: Built static mesh [0.28s] /Game/Polar/Meshes/Props/SM_Generator_Attachment_01.SM_Generator_Attachment_01
+[2020.11.16-06.49.40:705][843]LogActorFactory: Actor Factory created SM_Generator_Attachment_01
+[2020.11.16-06.49.42:015][894]LogActorFactory: Actor Factory created SM_Generator_Attachment_01
+[2020.11.16-06.49.42:311][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.11.16-06.49.42:889][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generator_Attachment_01)
+[2020.11.16-06.49.43:275][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.16-06.49.44:629][997]Cmd: SELECT NONE
+[2020.11.16-06.50.16:334][857]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 142
+[2020.11.16-06.50.16:758][865]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 132
+[2020.11.16-06.50.17:409][880]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 122
+[2020.11.16-06.50.17:682][886]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 112
+[2020.11.16-06.50.18:325][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 102
+[2020.11.16-06.50.19:256][924]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 92
+[2020.11.16-06.50.19:714][936]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 82
+[2020.11.16-06.50.19:899][939]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.11.16-06.50.21:857][995]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2020.11.16-06.50.23:482][ 54]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2020.11.16-06.50.23:679][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2020.11.16-06.50.23:997][ 69]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-06.50.24:538][ 84]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2020.11.16-06.50.24:825][ 94]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.11.16-06.50.24:921][ 96]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.11.16-06.50.25:099][105]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.11.16-06.50.25:945][123]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.11.16-06.50.27:272][161]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.11.16-06.50.27:303][162]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.11.16-06.50.27:639][170]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.11.16-06.50.27:854][173]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.11.16-06.50.27:907][175]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.16-06.50.27:955][177]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.16-06.50.28:359][185]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.16-06.50.28:503][189]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.16-06.50.28:702][192]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.11.16-06.50.28:773][193]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.16-06.50.29:249][212]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.11.16-06.50.39:116][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.16-06.50.39:128][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.16-06.50.39:166][273]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main_Auto2D907D8FA4913D77316082CAF6D113684.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto2.umap'
+[2020.11.16-06.50.39:168][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Map/Base_Main' took 0.063
+[2020.11.16-06.50.39:168][273]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.063
+[2020.11.16-06.53.55:123][988]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:34968).
+[2020.11.16-06.54.50:789][402]LogTexture: Display: 正在编译纹理：T_Cloth_NRM（BC5、2048X2048）
+[2020.11.16-06.54.50:789][402]LogTexture: Display: 正在编译纹理：T_Cloth_CLR（AutoDXT、2048X2048）
+[2020.11.16-06.54.50:789][402]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.11.16-06.54.50:859][402]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-06.54.50:859][402]LogStaticMesh: 正在构建静态网格体SM_Crate_Stacked_Cloth……
+[2020.11.16-06.54.50:960][402]LogStaticMesh: Built static mesh [0.10s] /Game/Polar/Meshes/Props/SM_Crate_Stacked_Cloth.SM_Crate_Stacked_Cloth
+[2020.11.16-06.54.50:976][402]LogMaterial: Display: Missing cached shader map for material _M_Master_Cloth, compiling. 
+[2020.11.16-06.54.51:047][402]LogActorFactory: Actor Factory created SM_Crate_Stacked_Cloth
+[2020.11.16-06.54.52:300][448]LogActorFactory: Actor Factory created SM_Crate_Stacked_Cloth
+[2020.11.16-06.54.53:763][499]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.16-06.54.54:863][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 142
+[2020.11.16-06.54.55:214][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 132
+[2020.11.16-06.54.56:337][602]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 122
+[2020.11.16-06.54.56:366][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 112
+[2020.11.16-06.54.56:390][604]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 102
+[2020.11.16-06.54.57:084][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 92
+[2020.11.16-06.54.57:789][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 82
+[2020.11.16-06.54.58:061][674]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.11.16-06.55.00:634][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2020.11.16-06.55.01:537][813]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2020.11.16-06.55.01:649][815]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2020.11.16-06.55.02:685][852]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-06.55.02:685][852]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2020.11.16-06.55.02:992][866]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2020.11.16-06.55.03:344][883]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.11.16-06.55.03:788][899]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.11.16-06.55.04:655][922]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.11.16-06.55.05:535][953]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.11.16-06.55.05:888][967]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.11.16-06.55.06:050][974]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.11.16-06.55.06:182][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.11.16-06.55.06:550][991]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2020.11.16-06.55.06:625][993]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.16-06.55.06:857][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.16-06.55.06:959][  3]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.16-06.55.07:246][ 15]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.16-06.55.07:318][ 18]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.11.16-06.55.07:413][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_Light_Function_Masks（AutoDXT、512X512）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_CircleFrame_Masks（AutoDXT、1024X1024）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_Floor_Masks（AutoDXT、1024X1024）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_Floor_NRM（BC5、1024X1024）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_CircleFrame_NRM（BC5、1024X1024）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_Floor_SPEC（AutoDXT、2048X2048）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_CircleFrame_SPEC（AutoDXT、2048X2048）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_CircleFrame_CLR（AutoDXT、2048X2048）
+[2020.11.16-06.55.13:068][350]LogTexture: Display: 正在编译纹理：T_Floor_CLR（AutoDXT、2048X2048）
+[2020.11.16-06.55.13:068][350]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.11.16-06.55.13:114][350]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-06.55.13:114][350]LogMaterial: Display: Missing cached shader map for material _M_Master_Material_2Sided, compiling. 
+[2020.11.16-06.55.13:158][350]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-06.55.13:485][350]LogStaticMesh: 正在构建静态网格体SM_Circle_Frame……
+[2020.11.16-06.55.13:575][350]LogStaticMesh: Built static mesh [0.09s] /Game/Polar/Meshes/Architecture/SM_Circle_Frame.SM_Circle_Frame
+[2020.11.16-06.55.13:614][350]LogMaterial: Display: Missing cached shader map for material _M_Master_Material_2Sided, compiling. 
+[2020.11.16-06.55.13:723][350]LogActorFactory: Actor Factory created SM_Circle_Frame
+[2020.11.16-06.55.14:541][379]LogActorFactory: Actor Factory created SM_Circle_Frame
+[2020.11.16-06.55.17:255][460]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 364
+[2020.11.16-06.55.17:720][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (man)
+[2020.11.16-06.55.17:978][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 354
+[2020.11.16-06.55.18:357][497]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 344
+[2020.11.16-06.55.18:624][508]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 334
+[2020.11.16-06.55.19:265][533]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 324
+[2020.11.16-06.55.19:373][538]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 314
+[2020.11.16-06.55.19:430][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 304
+[2020.11.16-06.55.20:621][589]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 294
+[2020.11.16-06.55.22:671][660]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 284
+[2020.11.16-06.55.24:063][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 274
+[2020.11.16-06.55.24:092][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 264
+[2020.11.16-06.55.24:178][708]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 254
+[2020.11.16-06.55.24:615][726]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 244
+[2020.11.16-06.55.24:893][736]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 234
+[2020.11.16-06.55.25:419][747]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 224
+[2020.11.16-06.55.26:693][788]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 214
+[2020.11.16-06.55.27:909][832]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 204
+[2020.11.16-06.55.29:228][882]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 194
+[2020.11.16-06.55.30:325][926]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 184
+[2020.11.16-06.55.31:737][971]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 174
+[2020.11.16-06.55.31:920][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 164
+[2020.11.16-06.55.32:157][988]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 154
+[2020.11.16-06.55.32:189][989]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 144
+[2020.11.16-06.55.32:994][ 17]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 134
+[2020.11.16-06.55.33:451][ 32]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 124
+[2020.11.16-06.55.34:989][ 90]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 114
+[2020.11.16-06.55.35:381][105]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 104
+[2020.11.16-06.55.36:514][141]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 94
+[2020.11.16-06.55.37:664][186]Cmd: SELECT NONE
+[2020.11.16-06.55.38:029][202]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 84
+[2020.11.16-06.55.38:869][243]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 74
+[2020.11.16-06.55.40:209][308]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2020.11.16-06.55.40:268][311]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.11.16-06.55.40:356][315]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.11.16-06.55.40:618][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2020.11.16-06.55.40:867][341]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2020.11.16-06.55.41:590][371]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2020.11.16-06.55.43:526][463]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.11.16-06.55.43:626][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.11.16-06.55.43:928][483]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.11.16-06.55.44:133][491]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.11.16-06.55.44:176][493]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.16-06.55.44:430][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.11.16-06.55.44:909][525]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.11.16-06.55.45:830][560]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.11.16-06.55.45:974][566]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.11.16-06.55.46:038][569]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.11.16-06.55.46:194][572]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.11.16-06.55.46:419][579]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.11.16-06.55.46:570][583]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.11.16-06.55.46:618][585]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.11.16-06.56.43:028][158]LogTexture: Display: 正在编译纹理：T_Vista_CubeMap（RGBA16F、512X512）
+[2020.11.16-06.56.43:080][158]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/Polar/Textures/CubeMaps/T_Vista_CubeMap.T_Vista_CubeMap
+[2020.11.16-06.56.43:235][158]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.11.16-06.56.49:450][779]LogSlate: Window 'T_Vista_CubeMap' being destroyed
+[2020.11.16-06.56.49:456][779]LogSlate: Window 'T_Vista_CubeMap' being destroyed
+[2020.11.16-06.56.50:870][922]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTargetCube /Game/Polar/Textures/CubeMaps/C_Vista_CubeMap_02.C_Vista_CubeMap_02
+[2020.11.16-06.56.53:216][172]LogSlate: Window 'C_Vista_CubeMap_02' being destroyed
+[2020.11.16-06.56.53:222][172]LogSlate: Window 'C_Vista_CubeMap_02' being destroyed
+[2020.11.16-06.56.54:987][371]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTargetCube /Game/Polar/Textures/CubeMaps/C_Vista_CubeMap.C_Vista_CubeMap
+[2020.11.16-06.56.56:574][536]LogSlate: Window 'C_Vista_CubeMap' being destroyed
+[2020.11.16-06.56.56:581][536]LogSlate: Window 'C_Vista_CubeMap' being destroyed
+[2020.11.16-06.56.57:636][638]LogTexture: Display: 正在编译纹理：T_Indoor_Blue_Room_CubeMap（RGBA16F、512X512）
+[2020.11.16-06.56.57:676][638]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/Polar/Textures/CubeMaps/T_Indoor_Blue_Room_CubeMap.T_Indoor_Blue_Room_CubeMap
+[2020.11.16-06.57.00:150][906]LogSlate: Window 'T_Indoor_Blue_Room_CubeMap' being destroyed
+[2020.11.16-06.57.00:156][906]LogSlate: Window 'T_Indoor_Blue_Room_CubeMap' being destroyed
+[2020.11.16-07.00.39:804][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.16-07.00.39:819][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.16-07.00.39:844][175]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main_Auto377732AA04212BE5CC31A9F947B9F983A.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Autosaves/Game/Base/Map/Base_Main_Auto3.umap'
+[2020.11.16-07.00.39:860][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Map/Base_Main' took 0.081
+[2020.11.16-07.00.39:860][175]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.081
+[2020.11.16-07.31.34:220][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Map/Base_Main" FILE="E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-07.31.34:235][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.11.16-07.31.34:289][716]LogSavePackage: Moving 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Saved/Base_Main691E61334FA665678275B8B327B1821A.tmp' to 'E:/Work_Backup/临时制作/基地临时制作/Base/基地/Content/Base/Map/Base_Main.umap'
+[2020.11.16-07.31.34:349][716]AssetCheck: New page: 资产保存：Base_Main
+[2020.11.16-07.31.34:349][716]LogContentValidation: Display: 正在验证World /Game/Base/Map/Base_Main.Base_Main
+[2020.11.16-07.31.39:575][906]LogStaticMesh: 正在构建静态网格体SM_Grid……
+[2020.11.16-07.31.39:613][906]LogTexture: Display: 正在编译纹理：T_Walls_NRM（BC5、1024X1024）
+[2020.11.16-07.31.39:613][906]LogTexture: Display: 正在编译纹理：T_Wall_Masks（AutoDXT、1024X1024）
+[2020.11.16-07.31.39:629][906]LogStaticMesh: Built static mesh [0.05s] /Game/Polar/Meshes/Props/SM_Grid.SM_Grid
+[2020.11.16-07.31.41:275][906]LogTexture: Display: 正在编译纹理：T_Wall_SPEC（AutoDXT、2048X2048）
+[2020.11.16-07.31.41:275][906]LogTexture: Display: 正在编译纹理：T_Wall_CLR（AutoDXT、2048X2048）
+[2020.11.16-07.31.41:275][906]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 111
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 101
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 91
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.11.16-07.31.41:356][906]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.11.16-07.31.41:388][906]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Polar/Meshes/Props/SM_Grid.SM_Grid
+[2020.11.16-07.31.42:208][906]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-07.31.42:208][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-07.31.42:664][906]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.11.16-07.31.42:664][906]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.16-07.32.01:050][527]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.11.16-07.32.01:279][535]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.11.16-07.32.01:732][548]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.11.16-07.32.02:061][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2020.11.16-07.32.02:141][562]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.11.16-07.32.03:295][599]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.11.16-07.32.03:829][616]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.11.16-07.32.03:918][619]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.11.16-07.32.04:001][622]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.11.16-07.32.04:055][624]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.11.16-07.32.04:360][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.11.16-07.32.04:429][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.11.16-07.32.04:608][642]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.16-07.32.04:796][648]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.11.16-07.32.04:796][648]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.11.16-07.33.50:705][551]LogSlate: Window 'SM_Grid' being destroyed
+[2020.11.16-07.33.50:712][551]LogSlate: Window 'SM_Grid' being destroyed
+[2020.11.16-07.33.50:719][551]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-07.33.50:719][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-09.16.26:345][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Circle_Frame)
+[2020.11.16-09.16.27:280][395]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crate_Stacked_Cloth)
+[2020.11.16-09.16.30:961][777]Cmd: SELECT NONE
+[2020.11.16-09.16.43:960][279]LogActorFactory: Actor Factory created SM_Grid
+[2020.11.16-09.16.45:839][491]LogActorFactory: Actor Factory created SM_Grid
+[2020.11.16-09.16.46:026][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.16-09.16.53:662][354]Cmd: SELECT NONE
+[2020.11.16-09.16.59:196][ 16]Cmd: TRANSACTION UNDO
+[2020.11.16-09.16.59:196][ 16]LogEditorTransaction: Undo 不选
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: === Critical error: ===
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: 
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: Fatal error!
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: 
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000060
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: 
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd67e6ae8b UE4Editor-WorldBrowser.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd67f03220 UE4Editor-WorldBrowser.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd75044d2d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd75069a19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd750554bc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd75102370 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd75054a31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd7504e8d0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd7588a077 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd5e5e5155 UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd5e5e586e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd766f2dc1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd7672b54a UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.16-09.17.46:248][ 16]LogWindows: Error: [Callstack] 0x00007ffd5e5f2c8e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffd5e5e4fd5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffd7672d5de UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffd76720f16 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffda0e47c25 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffda0e35c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.16-09.17.46:249][ 16]LogWindows: Error: [Callstack] 0x00007ffda0e4a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffda0e317d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffdbae45c1d USER32.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffdbae45612 USER32.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffda0e4bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ff61aed68c4 UE4Editor.exe!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ff61aeeba7c UE4Editor.exe!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ff61aeebb5a UE4Editor.exe!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ff61aefe31d UE4Editor.exe!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ff61af0145a UE4Editor.exe!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffdbc2b7c24 KERNEL32.DLL!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: [Callstack] 0x00007ffdbc60d4d1 ntdll.dll!UnknownFunction []
+[2020.11.16-09.17.46:273][ 16]LogWindows: Error: 
+[2020.11.16-09.17.46:378][ 16]LogExit: Executing StaticShutdownAfterError
+[2020.11.16-09.17.47:338][ 16]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.11.16-09.17.47:338][ 16]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.11.16-09.17.47:363][ 16]Log file closed, 11/16/20 17:17:47
